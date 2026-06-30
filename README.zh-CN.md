@@ -12,77 +12,77 @@
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Agentic%20Tools-14b8a6?style=for-the-badge" />
 </p>
 
-**I build practical AI tools that keep context, operate real workflows, and turn rough ideas into usable systems.**
+**我在构建面向真实工作流的 AI 工具：让工具保留上下文、协助执行任务，并把粗糙想法变成可用系统。**
 
 <p>
-  <strong>English</strong> | <a href="./README.zh-CN.md">中文</a>
+  <a href="./README.md">English</a> | <strong>中文</strong>
 </p>
 
 <p>
-  <a href="#current-projects">Current Projects</a> |
-  <a href="#focus-areas">Focus Areas</a> |
-  <a href="#skills">Skills</a> |
-  <a href="#github-snapshot">GitHub Snapshot</a> |
-  <a href="#connect">Connect</a>
+  <a href="#当前项目">当前项目</a> |
+  <a href="#关注方向">关注方向</a> |
+  <a href="#技能栈">技能栈</a> |
+  <a href="#github-概览">GitHub 概览</a> |
+  <a href="#联系入口">联系入口</a>
 </p>
 
 </div>
 
 ---
 
-## Current Projects
+## 当前项目
 
-### AI Memory & Agent Workflows
+### AI 记忆与 Agent 工作流
 
-- [Project Brain Studio](https://github.com/y864261947/project-brain-studio) - Local memory dashboard and Codex skill package for project-specific context, MCP tools, checkpoints, and memory review.
-- [github-projects-and-articles](https://github.com/y864261947/github-projects-and-articles) - Workspace for GitHub project tracking, writing, and public technical notes.
+- [Project Brain Studio](https://github.com/y864261947/project-brain-studio) - 本地记忆仪表盘与 Codex skill 包，支持项目上下文、MCP 工具、checkpoint 和记忆审核。
+- [github-projects-and-articles](https://github.com/y864261947/github-projects-and-articles) - 用于 GitHub 项目跟踪、写作和公开技术笔记的工作区。
 
-### Creative AI Systems
+### AI 创作系统
 
-- [infinite-canvas](https://github.com/y864261947/infinite-canvas) - AI creative canvas for image/video generation, prompt workflows, reference editing, and multi-agent creation.
-- [ppt-master](https://github.com/y864261947/ppt-master) - AI-driven SVG and presentation generation system.
+- [infinite-canvas](https://github.com/y864261947/infinite-canvas) - 面向图片、视频、提示词流程、参考图编辑和多 Agent 创作的 AI 无限画布。
+- [ppt-master](https://github.com/y864261947/ppt-master) - AI 驱动的 SVG 与演示文稿生成系统。
 
-### Developer Tools
+### 开发者工具
 
-- [v2apiCodeHub](https://github.com/y864261947/v2apiCodeHub) - TypeScript tooling and API workspace for building and organizing development utilities.
-- [opencli](https://github.com/y864261947/opencli) - Universal CLI hub concept for making tools discoverable and executable by agents.
+- [v2apiCodeHub](https://github.com/y864261947/v2apiCodeHub) - 用于构建和组织开发工具的 TypeScript/API 工作区。
+- [opencli](https://github.com/y864261947/opencli) - 让工具更容易被 Agent 发现、学习和执行的通用 CLI hub 概念。
 
-## Now
+## 现在在做
 
 ```text
-Building    Project Brain as a local memory layer for Codex
-Exploring   agent-friendly interfaces, MCP tools, and workflow automation
-Improving   personal GitHub projects into clean, public, trackable repos
+Building    把 Project Brain 打造成 Codex 的本地记忆层
+Exploring   Agent 友好的界面、MCP 工具和工作流自动化
+Improving   把个人 GitHub 项目整理成清晰、公开、可追踪的仓库
 ```
 
-## Focus Areas
+## 关注方向
 
 <table>
   <tr>
     <td width="50%">
-      <h3>Agent Memory</h3>
-      <p>Project-aware context, checkpoints, searchable conversation references, and reviewable long-term memories.</p>
+      <h3>Agent 记忆</h3>
+      <p>项目感知上下文、checkpoint、可搜索对话引用，以及可审核的长期记忆。</p>
     </td>
     <td width="50%">
-      <h3>AI Tooling</h3>
-      <p>Small tools that help agents inspect projects, operate workflows, and make useful decisions with less repeated setup.</p>
+      <h3>AI 工具</h3>
+      <p>帮助 Agent 理解项目、操作工作流、减少重复设置，并做出更有用决策的小工具。</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Creative Systems</h3>
-      <p>Canvas, image, video, prompt, and multi-agent creation flows where people keep control over the process.</p>
+      <h3>创作系统</h3>
+      <p>画布、图片、视频、提示词和多 Agent 创作流程，重点是让人保留控制权。</p>
     </td>
     <td width="50%">
-      <h3>Automation</h3>
-      <p>Practical scripts, dashboards, and integrations that reduce manual work without hiding important state.</p>
+      <h3>自动化</h3>
+      <p>实用脚本、仪表盘和集成，用来减少重复劳动，同时不隐藏关键状态。</p>
     </td>
   </tr>
 </table>
 
-## Skills
+## 技能栈
 
-### Languages & Runtime
+### 语言与运行时
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -92,7 +92,7 @@ Improving   personal GitHub projects into clean, public, trackable repos
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-### AI & Workflow
+### AI 与工作流
 
 <p>
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
@@ -102,14 +102,14 @@ Improving   personal GitHub projects into clean, public, trackable repos
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
-## What I Care About
+## 我在意的事
 
-- Tools should be useful in messy real projects, not only in demos.
-- AI agents need memory, context boundaries, and reviewable decisions.
-- Good automation should reduce repeated work without hiding important state.
-- Creative AI tools should give humans more control, not less.
+- 工具要能解决真实项目里的混乱问题，而不是只适合 demo。
+- AI Agent 需要记忆、上下文边界和可审核的决策过程。
+- 好的自动化应该减少重复劳动，但不能隐藏关键状态。
+- AI 创作工具应该让人获得更多控制权，而不是更少。
 
-## GitHub Snapshot
+## GitHub 概览
 
 <div align="center">
 
@@ -126,7 +126,7 @@ Improving   personal GitHub projects into clean, public, trackable repos
 
 </div>
 
-## Connect
+## 联系入口
 
 <p>
   <a href="https://github.com/y864261947">
@@ -144,6 +144,6 @@ Improving   personal GitHub projects into clean, public, trackable repos
 
 <div align="center">
 
-**Simple tools. Reviewable context. Better workflows.**
+**简单工具。可审核上下文。更好的工作流。**
 
 </div>
