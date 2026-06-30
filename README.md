@@ -14,49 +14,71 @@
 
 **I build practical AI tools that keep context, operate real workflows, and turn rough ideas into usable systems.**
 
+<p>
+  <a href="#current-projects">Current Projects</a> |
+  <a href="#focus-areas">Focus Areas</a> |
+  <a href="#skills">Skills</a> |
+  <a href="#github-snapshot">GitHub Snapshot</a> |
+  <a href="#connect">Connect</a>
+</p>
+
 </div>
 
 ---
 
-## Current Focus
+## Current Projects
+
+### AI Memory & Agent Workflows
+
+- [Project Brain Studio](https://github.com/y864261947/project-brain-studio) - Local memory dashboard and Codex skill package for project-specific context, MCP tools, checkpoints, and memory review.
+- [github-projects-and-articles](https://github.com/y864261947/github-projects-and-articles) - Workspace for GitHub project tracking, writing, and public technical notes.
+
+### Creative AI Systems
+
+- [infinite-canvas](https://github.com/y864261947/infinite-canvas) - AI creative canvas for image/video generation, prompt workflows, reference editing, and multi-agent creation.
+- [ppt-master](https://github.com/y864261947/ppt-master) - AI-driven SVG and presentation generation system.
+
+### Developer Tools
+
+- [v2apiCodeHub](https://github.com/y864261947/v2apiCodeHub) - TypeScript tooling and API workspace for building and organizing development utilities.
+- [opencli](https://github.com/y864261947/opencli) - Universal CLI hub concept for making tools discoverable and executable by agents.
+
+## Now
 
 ```text
-Local memory      -> project-aware context for Codex and coding agents
-Agent workflows   -> tools that can discover, decide, and operate
-Creative systems  -> canvas, image, video, prompt, and multi-agent creation
-Automation        -> small utilities that remove repeated manual work
+Building    Project Brain as a local memory layer for Codex
+Exploring   agent-friendly interfaces, MCP tools, and workflow automation
+Improving   personal GitHub projects into clean, public, trackable repos
 ```
 
-## Featured Work
+## Focus Areas
 
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/y864261947/project-brain-studio">Project Brain Studio</a></h3>
-      <p>Local memory dashboard and Codex skill package for project-specific context, MCP tools, checkpoints, and memory review.</p>
-      <p><code>Python</code> <code>SQLite</code> <code>MCP</code> <code>Codex</code></p>
+      <h3>Agent Memory</h3>
+      <p>Project-aware context, checkpoints, searchable conversation references, and reviewable long-term memories.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/y864261947/infinite-canvas">Infinite Canvas</a></h3>
-      <p>AI creative canvas for image/video generation, prompt workflows, reference editing, and multi-agent creation.</p>
-      <p><code>TypeScript</code> <code>AI Canvas</code> <code>Creative Tools</code></p>
+      <h3>AI Tooling</h3>
+      <p>Small tools that help agents inspect projects, operate workflows, and make useful decisions with less repeated setup.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/y864261947/github-projects-and-articles">GitHub Projects And Articles</a></h3>
-      <p>A workspace for GitHub project tracking, writing, and public technical notes.</p>
-      <p><code>JavaScript</code> <code>Writing</code> <code>GitHub</code></p>
+      <h3>Creative Systems</h3>
+      <p>Canvas, image, video, prompt, and multi-agent creation flows where people keep control over the process.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/y864261947/v2apiCodeHub">v2apiCodeHub</a></h3>
-      <p>TypeScript tooling and API workspace for building and organizing development utilities.</p>
-      <p><code>TypeScript</code> <code>API</code> <code>Tools</code></p>
+      <h3>Automation</h3>
+      <p>Practical scripts, dashboards, and integrations that reduce manual work without hiding important state.</p>
     </td>
   </tr>
 </table>
 
-## Toolbelt
+## Skills
+
+### Languages & Runtime
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -64,8 +86,15 @@ Automation        -> small utilities that remove repeated manual work
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+### AI & Workflow
+
+<p>
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-111827?style=flat-square" />
+  <img alt="Codex" src="https://img.shields.io/badge/Codex-111827?style=flat-square" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
@@ -93,10 +122,24 @@ Automation        -> small utilities that remove repeated manual work
 
 </div>
 
+## Connect
+
+<p>
+  <a href="https://github.com/y864261947">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-y864261947-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/y864261947?tab=repositories">
+    <img alt="Repositories" src="https://img.shields.io/badge/Repositories-Explore-2563eb?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/y864261947/project-brain-studio">
+    <img alt="Project Brain" src="https://img.shields.io/badge/Project%20Brain-Open-14b8a6?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 <div align="center">
 
-**Building small tools today, compounding better workflows tomorrow.**
+**Simple tools. Reviewable context. Better workflows.**
 
 </div>
