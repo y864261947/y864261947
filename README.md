@@ -80,8 +80,12 @@ Automation        -> small utilities that remove repeated manual work
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=y864261947&show_icons=true&hide_border=true&rank_icon=github&theme=default" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y864261947&layout=compact&hide_border=true&langs_count=8" />
+<img alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y864261947&theme=github" />
+
+<br />
+
+<img height="165" alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=y864261947&theme=github" />
+<img height="165" alt="Commits by language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=y864261947&theme=github" />
 
 <br />
 
